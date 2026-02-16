@@ -1,2 +1,12 @@
 # prime-focus-privacy-policy
 Privacy Policy for Prime Focus extension
+
+Prime Focus does not collect, store, transmit, or share any personal data.
+
+The extension operates entirely locally within the user’s browser. It does not collect browsing history, website content, personal information, authentication data, or usage analytics.
+
+All session information is stored locally using Chrome’s storage API and is not transmitted to any external servers.
+
+Prime Focus does not use remote code, third-party analytics, or external tracking services.
+
+If you have questions, you may contact the developer at: calmstudioau@gmail.com
